@@ -11,7 +11,7 @@ import static com.codeborne.selenide.Selenide.*;
 
 public class PracticeWithJenkins extends BaseTest {
 
-    @Tag("form")
+    @Tag("critical")
     @Test
     void formTest() {
 
